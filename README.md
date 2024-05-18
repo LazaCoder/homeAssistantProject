@@ -15,3 +15,9 @@ importance of leveraging cutting-edge technologies in the IoT domain. Through a 
 context of a smart home will be demonstrated. The goal of this thesis is to create a
 functional and user-friendly web application that enhances the user experience in a smart
 home environment
+
+
+## Additional info
+
+PDF file with full description of the project and technologies used can be found [https://github.com/LazaCoder/homeAssistantProject/blob/main/docs/ThesisFinalVersion.pdf](HERE)
+Additional info can also be found in  [https://repozitorij.fer.unizg.hr/islandora/object/fer:11371](FERrepo)
