@@ -19,5 +19,8 @@ home environment
 
 ## Additional info
 
-PDF file with full description of the project and technologies used can be found [https://github.com/LazaCoder/homeAssistantProject/blob/main/docs/ThesisFinalVersion.pdf](HERE)
-Additional info can also be found in  [https://repozitorij.fer.unizg.hr/islandora/object/fer:11371](FERrepo)
+PDF file with full description of the project and technologies used can be found here:
+[https://github.com/LazaCoder/homeAssistantProject/blob/main/docs/ThesisFinalVersion.pdf](HERE)
+
+Additional info can also be found in FER repo 
+[https://repozitorij.fer.unizg.hr/islandora/object/fer:11371](FERrepo)
